@@ -18,7 +18,7 @@ const sketch = () => {
   const createGrid = () => {
     // points coordinates
     const points = [];
-    // how mane up and down
+    // how many up and down
     const count = 100;
     for (x = 0; x < count; x++) {
       for (y = 0; y < count; y++) {

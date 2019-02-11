@@ -50,7 +50,7 @@ const sketch = ({ context, width, height }) => {
     }
   `;
   // Creates a vertex shader
-  const vertexShader = /* glsl*/ glslify(`
+  const vertexShader = glslify(/* glsl*/ `
     varying vec2 vUv;
     uniform float time;
     #pragma glslify: noise = require('glsl-noise/simplex/4d');
