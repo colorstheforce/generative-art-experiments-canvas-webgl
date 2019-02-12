@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Store the learning and showcase the progression through ![Creative Coding with Canvas & WebGL](https://frontendmasters.com/courses/canvas-webgl/) by Matt DesLauriers on Frontend Masters
+Store the learning and showcase the progression through [Creative Coding with Canvas & WebGL](https://frontendmasters.com/courses/canvas-webgl/) by Matt DesLauriers on Frontend Masters
 
 ## Objectives
 
@@ -23,7 +23,15 @@ Store the learning and showcase the progression through ![Creative Coding with C
 
 ### Generated examples
 
-...
+![](https://github.com/alanionita/workshop-generative-art--own-work/blob/master/assets/sketch/2019.02.11-22.35.36.png?raw=true)
+
+![](https://github.com/alanionita/workshop-generative-art--own-work/blob/master/assets/sketch/2019.01.13-12.25.14.png?raw=true)
+
+![](https://github.com/alanionita/workshop-generative-art--own-work/blob/master/assets/sketch/2019.01.13-12.21.03.png?raw=true)
+
+![](https://github.com/alanionita/workshop-generative-art--own-work/blob/master/assets/sketch/2019.01.13-12.04.33.png?raw=true)
+
+![](https://github.com/alanionita/workshop-generative-art--own-work/blob/master/assets/sketch/2019.01.13-12.16.58.png?raw=true)
 
 ### shader.js
 
@@ -36,7 +44,7 @@ Store the learning and showcase the progression through ![Creative Coding with C
 
 ### Generated example
 
-...
+![](https://github.com/alanionita/workshop-generative-art--own-work/blob/master/assets/shader.gif?raw=true)
 
 ### webgl.js
 
@@ -48,7 +56,7 @@ Store the learning and showcase the progression through ![Creative Coding with C
 
 ### Generated example
 
-...
+![](https://github.com/alanionita/workshop-generative-art--own-work/blob/master/assets/webgl.gif?raw=true)
 
 ### webgl-vertex-shader.js
 
@@ -59,7 +67,7 @@ Store the learning and showcase the progression through ![Creative Coding with C
 
 ### Generated example
 
-...
+![](https://github.com/alanionita/workshop-generative-art--own-work/blob/master/assets/webgl-vertex-shader.gif?raw=true)
 
 ### webgl-vertex-shader-warp.js
 
@@ -67,7 +75,7 @@ Store the learning and showcase the progression through ![Creative Coding with C
 
 ### Generated example
 
-...
+![](https://github.com/alanionita/workshop-generative-art--own-work/blob/master/assets/webgl-vertex-shader-warp.gif?raw=true)
 
 ### webgl-vertex-shader-planet.js
 
@@ -78,4 +86,4 @@ Store the learning and showcase the progression through ![Creative Coding with C
 
 ### Generated example
 
-...
+![](https://github.com/alanionita/workshop-generative-art--own-work/blob/master/assets/webgl-vertex-shader-planet.gif?raw=true)
